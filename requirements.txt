@@ -1,0 +1,21 @@
+# FastAPI framework + ASGI server
+fastapi
+uvicorn
+
+# LangChain + Gemini integration
+langchain
+langchain-google-genai
+google-generativeai
+
+# Database (MySQL + ORM)
+SQLAlchemy
+mysqlclient
+pymysql
+
+# PDF + Embeddings
+pypdf
+faiss-cpu
+
+# Utils
+python-dotenv
+requests
